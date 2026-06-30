@@ -327,7 +327,7 @@
 						"activity": "Alerts",
 						"dependencyConditions": [
 							"Failed",
-							"Skipped"
+							"Succeeded"
 						]
 					}
 				],
